@@ -1,5 +1,6 @@
 def wallet_hub_ml_project():
     # random print statement
+    #  mlflow ui --backend-store-uri sqlite:///mlflow.db
     print("first line of code for wallet hub ML Engineer assessment") 
 
 
