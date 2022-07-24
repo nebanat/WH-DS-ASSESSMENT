@@ -1,2 +1,8 @@
 .idea/
 venv/
+.venv/
+.DS_Store
+*.csv
+*/*/mlruns
+*/*/models/*
+*/*/mlflow.db
